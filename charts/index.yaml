@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  demo-database-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-15T22:55:17.899165818Z"
+    description: A Helm chart for Kubernetes
+    digest: c1ce19ea6c6bd0c41bc38999e864fd14d232857dc2666629852a6fd4c3f3fe5f
+    name: demo-database-chart
+    type: application
+    urls:
+    - https:JoMoKy-Project.github.io/helm
+    version: 0.1.0
+  demo-john-backend-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-15T22:55:17.899910121Z"
+    description: A Helm chart for Kubernetes
+    digest: 98bc3034dfa0da00feb1d8e69d31338ef6ebfc1d56822145a578f45ec5928cb0
+    name: demo-john-backend-chart
+    type: application
+    urls:
+    - https:JoMoKy-Project.github.io/helm
+    version: 0.1.0
+  demo-john-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-15T22:55:17.900694617Z"
+    description: A Helm chart for Kubernetes
+    digest: ff45b1ba4621d1854ec10eaf5e111cb5af0fbc1f796f9318204683b7622d9bdb
+    name: demo-john-chart
+    type: application
+    urls:
+    - https:JoMoKy-Project.github.io/helm
+    version: 0.1.0
+generated: "2026-04-15T22:55:17.898227336Z"
